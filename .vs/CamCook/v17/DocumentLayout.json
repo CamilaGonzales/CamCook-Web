@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\views\\recipe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:views\\recipe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\models\\recipeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:models\\recipeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\models\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:models\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\camcook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:camcook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\views\\splash\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:views\\splash\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|d:\\4to semestre\\proyecto sistemas i\\camcook\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C47F2169-26D6-4A1C-A08A-5A9DC5C31E61}|CamCook.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T20:26:19.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:58:35.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Recipe\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recipe\\Create.cshtml",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Recipe\\Create.cshtml",
+              "RelativeToolTip": "Views\\Recipe\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T10:44:49.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:51:56.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAFkCAAAAAAAAAAAQwGECAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-09T10:56:17.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T10:35:18.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeViewModel.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Models\\RecipeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RecipeViewModel.cs",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Models\\RecipeViewModel.cs",
+              "RelativeToolTip": "Models\\RecipeViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:51:30.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T20:26:52.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAOMBAAAAAAAAAAAwwAUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-09T10:58:57.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecipeController.cs",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "Controllers\\RecipeController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAwwG8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:55:50.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Models\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "Models\\FirebaseService.cs",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Models\\FirebaseService.cs",
+              "RelativeToolTip": "Models\\FirebaseService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:49:53.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CamCook.csproj",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\CamCook.csproj",
+              "RelativeDocumentMoniker": "CamCook.csproj",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\CamCook.csproj",
+              "RelativeToolTip": "CamCook.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T10:19:45.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Splash\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Splash\\Index.cshtml",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Splash\\Index.cshtml",
+              "RelativeToolTip": "Views\\Splash\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T20:27:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T20:26:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sistemas I\\CamCook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T20:27:24.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
