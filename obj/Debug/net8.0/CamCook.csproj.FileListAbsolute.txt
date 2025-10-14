@@ -1,0 +1,342 @@
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\appsettings.Development.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\appsettings.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\CamCook.staticwebassets.runtime.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\CamCook.staticwebassets.endpoints.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\CamCook.exe
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\CamCook.deps.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\CamCook.runtimeconfig.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\CamCook.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\CamCook.pdb
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Azure.Core.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Azure.Identity.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Humanizer.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.ClientModel.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.CodeDom.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Text.Json.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.csproj.AssemblyReference.cache
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.AssemblyInfoInputs.cache
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.AssemblyInfo.cs
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.csproj.CoreCompileInputs.cache
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.RazorAssemblyInfo.cache
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.RazorAssemblyInfo.cs
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\scopedcss\bundle\CamCook.styles.css
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\scopedcss\projectbundle\CamCook.bundle.scp.css
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\staticwebassets.build.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\staticwebassets.development.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.csproj.Up2Date
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\refint\CamCook.dll
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.pdb
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\CamCook.genruntimeconfig.cache
+D:\SEM_4\ProyectoDeSistemas1\CamCook\obj\Debug\net8.0\ref\CamCook.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\appsettings.Development.json
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\CamCook.staticwebassets.endpoints.json
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\appsettings.json
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\CamCook.staticwebassets.runtime.json
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\CamCook.exe
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\CamCook.deps.json
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\CamCook.runtimeconfig.json
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\CamCook.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\CamCook.pdb
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Azure.Core.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Azure.Identity.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Humanizer.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.ClientModel.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.CodeDom.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Memory.Data.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Text.Json.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.csproj.AssemblyReference.cache
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.GeneratedMSBuildEditorConfig.editorconfig
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.AssemblyInfoInputs.cache
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.AssemblyInfo.cs
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.csproj.CoreCompileInputs.cache
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.MvcApplicationPartsAssemblyInfo.cache
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.RazorAssemblyInfo.cache
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.RazorAssemblyInfo.cs
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\scopedcss\bundle\CamCook.styles.css
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\scopedcss\projectbundle\CamCook.bundle.scp.css
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\staticwebassets.build.json
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\staticwebassets.development.json
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.csproj.Up2Date
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\refint\CamCook.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.pdb
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\CamCook.genruntimeconfig.cache
+D:\4to Semestre\Proyecto Sistemas I\CamCook\obj\Debug\net8.0\ref\CamCook.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Firebase.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\LiteDB.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\4to Semestre\Proyecto Sistemas I\CamCook\bin\Debug\net8.0\System.Reactive.dll

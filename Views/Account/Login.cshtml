@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model CamCook.Models.LoginViewModel
+@{
+    Layout = null; // pantalla limpia
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>Iniciar sesión - Cook Cam</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="bg-cream full-center">
+    <div class="login-grid">
+        <div class="login-left">
+            <img src="~/img/logo.png" alt="Cook Cam" class="logo-lg" />
+            <h1 class="brand">Cook Cam</h1>
+            <p class="tagline">Nuevas Creaciones</p>
+        </div>
+
+        <div class="login-right">
+            <h2 class="section-title">Inicio de Sesión</h2>
+
+            <form asp-controller="Account" asp-action="Login" asp-controller="Account" method="post" class="form">
+                @Html.AntiForgeryToken()
+
+                <div class="form-group">
+                    <label asp-for="Username"></label>
+                    <input asp-for="Username" class="input" />
+                    <span asp-validation-for="Username" class="text-val"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" class="input" />
+                    <span asp-validation-for="Password" class="text-val"></span>
+                </div>
+
+                <div asp-validation-summary="ModelOnly" class="error-box"></div>
+
+                <button type="submit" class="btn-primary">Iniciar sesión</button>
+            </form>
+
+            <p class="register-link">
+                ¿No tienes cuenta?
+                <a asp-action="Register" asp-controller="Account">Regístrate</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
+
+

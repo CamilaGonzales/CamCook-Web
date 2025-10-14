@@ -1,0 +1,185 @@
+﻿@model CamCook.Models.RecipeViewModel
+@{
+    ViewData["Title"] = "Crear Receta";
+}
+
+<h2 style="text-align:center;margin:10px 0 18px;">Crear Receta</h2>
+
+<div class="card">
+    <form asp-action="Crear" method="post" enctype="multipart/form-data">
+        @* Id oculto (si lo quieres conservar y enviar) *@
+        <input type="hidden" asp-for="Id" />
+
+        <!-- Datos básicos -->
+        <div class="row">
+            <div>
+                <label for="Titulo">Título de la receta</label>
+                <input asp-for="Titulo" id="Titulo" type="text" />
+            </div>
+            <div>
+                <label for="Calorias">Calorías</label>
+                <input asp-for="Calorias" id="Calorias" type="number" min="0" />
+            </div>
+            <div>
+                <label for="Porciones">Porciones</label>
+                <input asp-for="Porciones" id="Porciones" type="number" min="1" />
+            </div>
+            <div>
+                <label for="TiempoPreparacion">Tiempo de Preparación</label>
+                <input asp-for="TiempoPreparacion" id="TiempoPreparacion" type="text"
+                       placeholder="Ej: 30 minutos o 1h 25 minutos" />
+            </div>
+        </div>
+
+        <div style="margin-top:14px;">
+            <label for="ImagenFinalFile">Imagen final del plato</label>
+            <!-- archivo a subir -->
+            <input id="ImagenFinalFile" name="ImagenFinalFile" type="file" accept="image/*" class="file" />
+            <!-- url que guardas en Firestore (el controlador la llenará tras subir el archivo) -->
+            <input type="hidden" asp-for="ImagenFinalUrl" />
+        </div>
+
+        <!-- Ingredientes -->
+        <div class="section-title">Ingredientes</div>
+        <div id="ingredientesContainer" class="subcard">
+            @if (Model?.Ingredientes?.Count > 0)
+            {
+                for (int i = 0; i < Model.Ingredientes.Count; i++)
+                {
+                    <div class="item" data-kind="ingrediente">
+                        <div class="row-3">
+                            <div>
+                                <label>Nombre del ingrediente</label>
+                                <input name="Ingredientes[@i].Nombre" value="@Model.Ingredientes[i].Nombre" type="text" />
+                            </div>
+                            <div>
+                                <label>Cantidad (Ej: 2 tazas, 1/2 cucharadita, 300 ml)</label>
+                                <input name="Ingredientes[@i].Cantidad" value="@Model.Ingredientes[i].Cantidad" type="text" />
+                            </div>
+                            <div>
+                                <label>Unidad (opcional)</label>
+                                <input name="Ingredientes[@i].Unidad" value="@Model.Ingredientes[i].Unidad" type="text" />
+                            </div>
+                        </div>
+                        <div style="margin-top:8px;">
+                            <span class="danger-link" onclick="eliminar(this)">Eliminar</span>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+        <div class="btn-row">
+            <button type="button" class="btn small" onclick="agregarIngrediente()">+ Agregar ingrediente</button>
+        </div>
+
+        <!-- Pasos -->
+        <div class="section-title">Pasos</div>
+        <div id="pasosContainer" class="subcard">
+            @if (Model?.Pasos?.Count > 0)
+            {
+                for (int i = 0; i < Model.Pasos.Count; i++)
+                {
+                    <div class="item" data-kind="paso">
+                        <label>Descripción del paso</label>
+                        <textarea name="Pasos[@i].Descripcion">@Model.Pasos[i].Descripcion</textarea>
+
+                        <div class="row" style="margin-top:8px;">
+                            <div>
+                                <label>Orden</label>
+                                <input name="Pasos[@i].Orden" type="number" min="1" value="@Model.Pasos[i].Orden" />
+                            </div>
+                            <div>
+                                <label>Imagen del paso (opcional)</label>
+                                <!-- archivo a subir -->
+                                <input name="PasoFiles[@i]" type="file" accept="image/*" class="file" />
+                                <!-- url que guardarás en Firestore -->
+                                <input type="hidden" name="Pasos[@i].ImagenUrl" value="@Model.Pasos[i].ImagenUrl" />
+                            </div>
+                        </div>
+
+                        <div style="margin-top:8px;">
+                            <span class="danger-link" onclick="eliminar(this)">Eliminar</span>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+        <div class="btn-row">
+            <button type="button" class="btn small" onclick="agregarPaso()">+ Agregar Paso</button>
+        </div>
+
+        <div class="footer-actions">
+            <button type="submit" class="btn primary">Guardar Receta</button>
+        </div>
+
+        @if (TempData["Ok"] != null)
+        {
+            <div class="success">
+                ✅ ¡Receta guardada exitosamente en Firestore!
+            </div>
+        }
+    </form>
+</div>
+
+<script>
+    // Índices para binding MVC: Ingredientes[0].*, Pasos[0].*
+    let idxIng = document.querySelectorAll('#ingredientesContainer [data-kind="ingrediente"]').length || 0;
+    let idxPaso = document.querySelectorAll('#pasosContainer [data-kind="paso"]').length || 0;
+
+    function agregarIngrediente(){
+        const cont = document.getElementById('ingredientesContainer');
+        const i = idxIng++;
+        const html = `
+        <div class="item" data-kind="ingrediente">
+            <div class="row-3">
+                <div>
+                    <label>Nombre del ingrediente</label>
+                    <input name="Ingredientes[${i}].Nombre" type="text" />
+                </div>
+                <div>
+                    <label>Cantidad (Ej: 2 tazas, 1/2 cucharadita, 300 ml)</label>
+                    <input name="Ingredientes[${i}].Cantidad" type="text" />
+                </div>
+                <div>
+                    <label>Unidad (opcional)</label>
+                    <input name="Ingredientes[${i}].Unidad" type="text" />
+                </div>
+            </div>
+            <div style="margin-top:8px;">
+                <span class="danger-link" onclick="eliminar(this)">Eliminar</span>
+            </div>
+        </div>`;
+        cont.insertAdjacentHTML('beforeend', html);
+    }
+
+    function agregarPaso(){
+        const cont = document.getElementById('pasosContainer');
+        const i = idxPaso++;
+        const html = `
+        <div class="item" data-kind="paso">
+            <label>Descripción del paso</label>
+            <textarea name="Pasos[${i}].Descripcion"></textarea>
+            <div class="row" style="margin-top:8px;">
+                <div>
+                    <label>Orden</label>
+                    <input name="Pasos[${i}].Orden" type="number" min="1" value="${i+1}" />
+                </div>
+                <div>
+                    <label>Imagen del paso (opcional)</label>
+                    <input name="PasoFiles[${i}]" type="file" accept="image/*" class="file" />
+                    <input type="hidden" name="Pasos[${i}].ImagenUrl" value="" />
+                </div>
+            </div>
+            <div style="margin-top:8px;">
+                <span class="danger-link" onclick="eliminar(this)">Eliminar</span>
+            </div>
+        </div>`;
+        cont.insertAdjacentHTML('beforeend', html);
+    }
+
+    function eliminar(el){
+        const item = el.closest('.item');
+        item?.remove();
+        // No reindexamos: MVC puede manejar índices con "huecos".
+    }
+</script>
